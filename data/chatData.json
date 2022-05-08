@@ -1,0 +1,103 @@
+[
+  {
+    "id": 0,
+    "name": "장만월 사장님",
+    "image": "static/image/profile/img-profile-1@2x.png",
+    "message": [
+      {
+        "message": "출근했니?",
+        "timestamp": "Mon May 09 2022 09:32:41 GMT+0900 (한국 표준시)"
+      },
+      {
+        "message": "출근했냐구?",
+        "timestamp": "Mon May 09 2022 09:32:45 GMT+0900 (한국 표준시)"
+      },
+      {
+        "message": "어딘데 출근 안하니?",
+        "timestamp": "Mon May 09 2022 09:32:54 GMT+0900 (한국 표준시)"
+      },
+      {
+        "message": "해외 출장중입니다.",
+        "timestamp": "Tue May 10 2022 09:02:41 GMT+0900 (한국 표준시)",
+        "send": true
+      }
+    ],
+    "unread": 0
+  },
+  {
+    "id": 1,
+    "name": "신정근 바텐더",
+    "image": "static/image/profile/img-profile-3@2x.png",
+    "message": [
+      {
+        "message": "저기",
+        "timestamp": "Mon May 09 2022 02:34:41 GMT+0900 (한국 표준시)"
+      },
+      {
+        "message": "오시는 길에 와인 몇병만 사다주세요.",
+        "timestamp": "Mon May 09 2022 02:34:41 GMT+0900 (한국 표준시)"
+      }
+    ],
+    "unread": 2
+  },
+  {
+    "id": 2,
+    "name": "이미라 의사",
+    "image": "static/image/profile/img-profile-4@2x.png",
+    "message": [
+      {
+        "message": "휴가 잘 보내고 계신가요? 다름이 아니라 지지지",
+        "timestamp": "Fri May 06 2022 02:37:41 GMT+0900 (한국 표준시)"
+      }
+    ],
+    "unread": 0
+  },
+  {
+    "id": 3,
+    "name": "구찬성 지배인",
+    "image": "static/image/profile/img-profile-5@2x.png",
+    "message": [
+      {
+        "message": "아 휴가셨군요. 약속은 다음으로 미루시죠!",
+        "timestamp": "Thu May 05 2022 02:37:41 GMT+0900 (한국 표준시)"
+      }
+    ],
+    "unread": 0
+  },
+  {
+    "id": 4,
+    "name": "노준석 총지배인",
+    "image": "static/image/profile/img-profile-6@2x.png",
+    "message": [
+      {
+        "message": "휴가에서 언제 돌아오시는지요. 돌아오시면 오오오",
+        "timestamp": "Fri May 06 2022 02:37:41 GMT+0900 (한국 표준시)"
+      }
+    ],
+    "unread": 0
+  },
+  {
+    "id": 5,
+    "name": "김유나 인턴",
+    "image": "static/image/profile/img-profile-7@2x.png",
+    "message": [
+      {
+        "message": "304호 키를 잃어버렸어요 어떻게 해야하죠ㅠ",
+        "timestamp": "Thu May 05 2022 02:37:41 GMT+0900 (한국 표준시)"
+      }
+    ],
+    "unread": 0
+  },
+  {
+    "id": 6,
+    "name": "구현모",
+    "image": "static/image/profile/img-profile-2@2x.png",
+    "message": [
+      {
+        "message": "술먹자",
+        "timestamp": "Wed May 04 2022 02:37:41 GMT+0900 (한국 표준시)"
+      }
+    ],
+    "unread": 0
+  }
+]
