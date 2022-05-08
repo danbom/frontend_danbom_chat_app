@@ -35,7 +35,7 @@ const List: NextPage = () => {
               <Icon
                 width="1.5rem"
                 height="1.5rem"
-                src="static/image/icon/menu_rectangle@2x.png"
+                src="/static/image/icon/menu_rectangle@2x.png"
               />
             </div>
           </motion.div>
@@ -63,7 +63,7 @@ const List: NextPage = () => {
               <Icon
                 width="1.5rem"
                 height="1.5rem"
-                src="static/image/icon/user_rectangle@2x.png"
+                src="/static/image/icon/user_rectangle@2x.png"
               />
             </div>
           </motion.div>
