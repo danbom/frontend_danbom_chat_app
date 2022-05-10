@@ -136,9 +136,8 @@ const Room: NextPage = () => {
           transition={{ ease: "easeOut", duration: 0.5 }}
         >
           {chatData[roomId].message?.map((message, index) => (
-            <>
+            <div key={index}>
               <ChatRoomMessage
-                key={index}
                 message={message.message}
                 /*
                 메시지 전송 시간은 hh:mm 포맷으로,
@@ -170,7 +169,7 @@ const Room: NextPage = () => {
                   </div>
                 </Contour>
               ) : null}
-            </>
+            </div>
           ))}
           {uploadedImgArr?.map((_, index) => (
             <ChatRoomImage
