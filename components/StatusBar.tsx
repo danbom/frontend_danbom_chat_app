@@ -24,6 +24,7 @@ function StatusBar() {
   };
 
   useEffect(() => {
+    getTime();
     setInterval(getTime, 1000);
     return () => {
       setInterval(getTime, 1000);
